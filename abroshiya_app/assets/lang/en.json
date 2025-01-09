@@ -1,0 +1,20 @@
+{
+    "login": "Login",
+    "username": "Username",
+    "password": "Password",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "forgotPassword": "Forgot Password?",
+    "createAccount": "Create New Account",
+    "churchNews": "Church News",
+    "myChurch": "My Church",
+    "parish": "Parish",
+    "signUpTitle": "Sign Up",
+    "confirmPassword": "Confirm Password",
+    "resetPassword": "Reset Password",
+    "email": "Email",
+    "passwordMismatch": "Passwords do not match",
+    "successfulSignUp": "Account created successfully!",
+    "passwordResetSent": "Password reset link sent to your email"
+  }
+  
